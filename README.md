@@ -1,6 +1,6 @@
 # Nguyễn Ngọc Nhật Quỳnh
 
-![Ảnh đại diện](https://dantri.com.vn/van-hoa/4-buc-anh-viet-nam-lot-vao-nhung-khoanh-khac-dep-nhat-the-gioi-2019-20190916092200489.htm)
+![Ảnh đại diện](https://picsum.photos/200)
 
 ## Giới thiệu bản thân
 Xin chào mọi người, mình là Quỳnh, sinh viên lớp Nhập môn Công nghệ Phần mềm.
