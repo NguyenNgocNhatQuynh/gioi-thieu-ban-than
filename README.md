@@ -1,6 +1,6 @@
 # Nguyễn Ngọc Nhật Quỳnh
 
-![Ảnh đại diện](<img width="1024" height="1025" alt="anh_dai_dienn" src="https://github.com/user-attachments/assets/3e47054a-3492-4f50-9222-3acbb621f99a" />)
+<img width="1024" height="1025" alt="anh_dai_dienn" src="https://github.com/user-attachments/assets/3e47054a-3492-4f50-9222-3acbb621f99a" />
 
 
 ## Giới thiệu bản thân
