@@ -1,7 +1,6 @@
 # Nguyễn Ngọc Nhật Quỳnh
 
-<img width="1024" height="1025" alt="anh_dai_dienn" src="https://github.com/user-attachments/assets/3e47054a-3492-4f50-9222-3acbb621f99a" />
-
+<img src="đường_link_github_của_bạn" alt="Ảnh đại diện" width="200">
 
 ## Giới thiệu bản thân
 Xin chào mọi người, mình là Quỳnh, sinh viên lớp Nhập môn Công nghệ Phần mềm.
